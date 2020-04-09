@@ -1,0 +1,9 @@
+name,proteins,energy
+pollo,20,5
+pasta,50,1
+albume,10,100
+verdura,1,1
+pesce,10,50
+noci,1,10
+latte,10,3
+frutta,5,1
